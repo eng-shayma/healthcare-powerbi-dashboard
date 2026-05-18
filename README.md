@@ -1,44 +1,42 @@
-# healthcare-powerbi-dashboard
-# Healthcare Power BI Dashboard
 
-## Overview
-This project was developed as part of practical training within a healthcare environment to support data visualization and reporting processes.
+# Healthcare Analytics Power BI Dashboard
 
-The dashboard was designed to provide clear insights and improve decision-making through interactive visual analytics.
+## 📌 Overview
+An executive-level Power BI solution designed to optimize hospital operations, streamline patient management, and analyze financial performance. Developed within a modern healthcare ecosystem, this dashboard transforms raw operational data into strategic insights for healthcare leadership and decision-makers.
 
 ---
 
-## Features
-- Interactive Power BI Dashboard
-- Data Cleaning & Transformation
-- Data Modeling & Relationships
-- KPI Visualization
-- Executive-Level Reporting
-- User-Friendly Interface Design
+## ✨ Features
+* **Patient Demographics Analysis:** Deep dive into patient volume, distribution, and scheduling patterns.
+* **Financial & Revenue Tracking:** Dynamic monitoring of departmental income, billing breakdowns, and performance optimization.
+* **Operational Efficiency:** Interactive tools to track appointment scheduling and doctor performance metrics.
+* **Premium Executive UX:** Designed with a high-end, clean color palette (Pink, Blue, and Gray) for seamless navigation and a professional look.
 
 ---
 
-## Tools & Technologies
-- Power BI Desktop
-- Power BI Service
-- SQL
-- Microsoft Excel
-- Canva
+## 🛠️ Tech Stack & Skills Demonstrated
+* **Data Modeling:** Established robust, complex table relationships across `Patients`, `Billing`, and `Appointments` schemas to ensure seamless cross-filtering.
+* **DAX Formulas:** Developed custom measures and calculated columns for key performance indicators (KPIs) and precise revenue distribution.
+* **ETL & Data Transformation:** Cleaned, structured, and prepared raw healthcare data using Power Query.
 
 ---
 
-## Key Contributions
-- Built dynamic dashboards for healthcare data analysis
-- Organized and transformed datasets for reporting accuracy
-- Designed interactive visuals for executive review
-- Improved data readability and user experience
+## 📸 Dashboard Preview
+Here is a glance at the final high-end design:
+
+![Dashboard Overview](Dashboard.png)
+
+*(You can also add `![Home Screen](home.png)` or `![Data Schema](Data.png)` if you wish to showcase more pages)*
 
 ---
 
-## Screenshots
-(Add dashboard screenshots here)
+## 📁 Repository Structure
+* `hospital مهم.pbix` - The core Power BI project file.
+* `README.md` - Project documentation.
+* `*.png` - Visual assets and dashboard screenshots.
 
 ---
+
 
 ## Author
 Shayma Al-Kabi
